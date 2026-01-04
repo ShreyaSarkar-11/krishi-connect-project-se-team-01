@@ -18,3 +18,7 @@ This task involves creating Sign Up Screen form component with email or phone nu
 This task involves creating a pre-login welcome page that introduces the application to users before authentication, including app overview and login/signup navigation options.
 **Status: Implemented**
 
+## T-06: Terms & Conditions Screen
+This task involves creating Terms & Conditions Screens, including validation and error handling.
+**Status: Implemented**
+
