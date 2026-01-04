@@ -14,3 +14,7 @@ This task involves creating a forget password screen.
 This task involves creating Sign Up Screen form component with email or phone numberand password fields, including validation and error handling.
 **Status: Established**
 
+## T-01: Implement Welcome Page
+This task involves creating a pre-login welcome page that introduces the application to users before authentication, including app overview and login/signup navigation options.
+**Status: Implemented**
+
