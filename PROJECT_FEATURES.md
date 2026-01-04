@@ -6,5 +6,7 @@ ord fields, including validation and error handling.
 
 ## T-03: Implement User Scan and Capture Page
 This task involves creating a scan and capture form component with camera, gallery andscan fields, including validation and error handling.
+## T-04: Forgot Password Screen
+This task involves creating a forget password screen.
 **Status: Implemented**
 
